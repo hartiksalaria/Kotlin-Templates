@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Permissions</string>
+    <string name="request_camera_permission">Request Camera Permission</string>
+</resources>
